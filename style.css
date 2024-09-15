@@ -94,6 +94,9 @@ p {
   h2 {
     font-size: 32px;
   }
+  container {
+    text-align: center;
+  }
   .project-link .primary-link {
     display: block;
     text-align: center;
