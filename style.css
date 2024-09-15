@@ -5,7 +5,7 @@
 }
 
 body {
-  margin-top: 100px;
+  margin: 100px 0;
 }
 
 h1,
@@ -93,11 +93,12 @@ p {
   }
   h2 {
     font-size: 32px;
+    text-align: center;
   }
   container {
     text-align: center;
   }
-  .project-link .primary-link {
+  .project-link {
     display: block;
     text-align: center;
     margin: 0 20px;
